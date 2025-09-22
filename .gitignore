@@ -1,1 +1,8 @@
 test.txt
+# .gitignore
+*.tfstate
+.env
+secrets/
+*.tfvars
+*.tfstate
+*.tfstate.backup
